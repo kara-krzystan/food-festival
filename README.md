@@ -1,7 +1,7 @@
 # Module 19 Project: Food Festival
 
 ## Description
-This week we studied Progressive Web Applications (PWAs). Notably, we learned how to optimize a site's performance on mobile devices by turning this web application designed for a food festival into a PWA.
+This week I studied Progressive Web Applications (PWAs). Notably, I learned how to optimize a site's performance on mobile devices by turning this web application designed for a food festival into a PWA.
 
 ## Overview of Concepts Learned
 * How to identify performance issues in web applications  
